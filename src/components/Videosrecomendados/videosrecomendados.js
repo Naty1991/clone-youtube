@@ -3,7 +3,7 @@ import React from 'react'
 const videosrecomendados = () => {
     return (
         <div>
-            
+            Videooos hd
         </div>
     )
 }
